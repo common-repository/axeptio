@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Axeptio for wordpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 12:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/views/general-settings.php:7
+msgid "You are here: "
+msgstr ""
+
+#: includes/views/general-settings.php:8
+msgid "Axeptio for Wordpress"
+msgstr ""
+
+#: includes/views/general-settings.php:17
+msgid "General Settings"
+msgstr ""
+
+#: includes/views/general-settings.php:28
+msgid "Quick help"
+msgstr ""
+
+#: includes/views/general-settings.php:31
+msgid ""
+"To display a consent : copy and paste the shortcode under the consent where "
+"you want in your site"
+msgstr ""
+
+#: includes/views/general-settings.php:37
+msgid ""
+"You can add the option \"required=1\" if the consent is required to validate "
+"a form"
+msgstr ""
+
+#: includes/views/general-settings.php:43
+msgid ""
+"For Contact Form 7 You can add the option \"wpcf7required=1\" if the consent "
+"is required to validate a form"
+msgstr ""
+
+#: includes/views/general-settings.php:50
+msgid "Exemple : "
+msgstr ""
+
+#: includes/views/general-settings.php:53
+msgid "Basic consent : "
+msgstr ""
+
+#: includes/views/general-settings.php:54
+msgid "[axeptio id=\"2\"]"
+msgstr ""
+
+#: includes/views/general-settings.php:57
+msgid "Required consent inside a form : "
+msgstr ""
+
+#: includes/views/general-settings.php:58
+msgid "[axeptio id=\"2\" required=\"1\"]"
+msgstr ""
+
+#: includes/views/general-settings.php:61
+msgid "Required consent inside a CONTACT FORM 7 form: "
+msgstr ""
+
+#: includes/views/general-settings.php:62
+msgid "[axeptio id=\"2\" wpcf7required=\"1\"]"
+msgstr ""
+
+#: includes/views/general-settings.php:71
+msgid "Available consents list"
+msgstr ""
+
+#: includes/views/general-settings.php:97
+msgid "Documents"
+msgstr ""
+
+#: includes/views/general-settings.php:109
+#: includes/views/general-settings.php:133
+msgid "Consent shortcode :"
+msgstr ""
+
+#: includes/views/general-settings.php:116
+msgid "No consents available for this type"
+msgstr ""
+
+#: includes/views/general-settings.php:121
+msgid "Personal data usages"
+msgstr ""
+
+#: includes/views/general-settings.php:160
+msgid "General settings"
+msgstr ""
+
+#: includes/views/general-settings.php:172
+msgid "Your Axeptio client id"
+msgstr ""
+
+#: includes/admin/class-admin.php:120
+msgid "Axeptio API Settings"
+msgstr ""
+
+#: includes/admin/class-admin.php:121
+msgid "Axeptio"
+msgstr ""
+
+#. Description of the plugin
+msgid "Axeptio consent integration for Wordpress"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/axeptio/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Weggs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://weggs.fr"
+msgstr ""

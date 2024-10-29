@@ -1,0 +1,48 @@
+#axeptio-admin .help-box {
+    position: relative;
+    overflow: auto;
+    margin: 16px 0;
+    padding: 0px 10px 15px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    background: #fff;
+    font-size: 13px;
+    line-height: 2.1em;
+}
+
+#axeptio-admin .help-box .exemple {
+    padding-top: 15px;
+}
+
+#axeptio-admin .help-box .exemple .title {
+    font-weight: 600;
+    font-style: italic;
+}
+
+#axeptio-admin .help-box .exemple .subtitle {
+    font-weight: 500;
+}
+
+.axeptio-container {
+    background: #FCFDFE;
+    margin: 10px 0 0 10px;
+}
+
+#axeptio-admin .page-title, .axeptio-admin .page-title {
+    background: url(../img/icon-large.png) left center no-repeat;
+    padding-left: 42px;
+    line-height: 32px;
+    margin-bottom: 20px;
+}
+
+#axeptio-admin .axeptio-shortcode {
+    margin: 20px 0;
+}
+
+#axeptio-admin .axeptio-shortcode label {
+    font-weight: 700;
+}
+
+#axeptio-admin .type-title {
+    color: #34527b;
+}
